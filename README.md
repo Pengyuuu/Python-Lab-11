@@ -2,12 +2,9 @@
 
 Part 1:
 
-Print all names in an array using a for loop
+User inputs integers that will be appended to an array. Using that array, the program will find the highest number, lowest 
+number, the total, and average of all numbers.
 
 Part 2:
 
-Add numbers from a random generator to an array, and calculate the total of all numbers in the array
-
-Part 3:
-
-Add five numbers from a random generator to an array, and if any of those numbers are less than 16, print that number out
+Given an empty array, generate random numbers seven times in the range from zero to seven, and print all numbers of the array out. 
